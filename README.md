@@ -1,3 +1,7 @@
+Vý https://learning.oreilly.com/library/view/applied-natural-language/9781492062561/
+
+
+
 # Applied Natural Language Processing in the Enterprise
 
 This is the companion repo for _Applied Natural Language Processing in the Enterprise_, an O'Reilly Media publication by Ankur A. Patel and Ajay Uppili Arasanipalai. Here, you will find all the source code from the book, published here on GitHub for your convenience.
